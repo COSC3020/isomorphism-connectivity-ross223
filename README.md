@@ -18,6 +18,6 @@ B to have 4 nodes e, f, g, h with edges between (e, f), (f, g), and (g, h), a bi
 can be formed, as each node in A can be mapped to exactly one node in B with no nodes
 remaining.
 
-Therefore, grpahs A and B are isomorphic by the definition, and since they are both 
+Therefore, graphs A and B are isomorphic by the definition, and since they are both 
 not completely connected, this means that two graphs to not have to be completely 
 connected to be isomorphic.
