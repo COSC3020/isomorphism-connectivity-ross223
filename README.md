@@ -11,11 +11,7 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-Assume that grpahs A and B are isomorphic which means that there is a bijection between
-the two graphs. This means for all nodes in A, there is a one to one and onto funciton
-such that each node can be mapped to exactly one node in B, with no nodes remaining.
-
-Now assume that graph A has 4 nodes a, b, c, d with edges between (a, b), (b, c), and
+Assume that graph A has 4 nodes a, b, c, d with edges between (a, b), (b, c), and
 (c, d). To be isomorphic to B, there must be a one-to-one and onto funtion such that
 each node in A can be mapped to exactly one node in B. Therefore, if we take grpah
 B to have 4 nodes e, f, g, h with edges between (e, f), (f, g), and (g, h), a bijection
