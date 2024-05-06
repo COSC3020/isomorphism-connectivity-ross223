@@ -24,3 +24,7 @@ d to h results in a bijection, as this is a one-to-one and onto function.
 Therefore, graphs A and B are isomorphic by the definition, and since they are both 
 not completely connected, this means that two graphs do not have to be completely 
 connected to be isomorphic.
+
+## Sources
+
+Hinckley28 was very helpful with this exercise
